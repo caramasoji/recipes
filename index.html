@@ -52,6 +52,21 @@
     </style>
 </head>
 <body>
+<script>
+    // Mencegah scrolling
+    function disableScroll() {
+        document.body.style.overflow = 'hidden';
+    }
+
+    // Mengaktifkan kembali scrolling
+    function enableScroll() {
+        document.body.style.overflow = '';
+    }
+
+    // Blokir scroll selama 3 detik
+    disableScroll();
+    setTimeout(enableScroll, 3000);
+</script>
     <div id="wrapper">
 	<center><script type="text/javascript">
 	atOptions = {
