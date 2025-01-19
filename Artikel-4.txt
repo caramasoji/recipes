@@ -1,6 +1,6 @@
-<h1>'Marry me' chicken pasta</h1>
-        <h2>Does anything say “I Love You” more than a big bowl of pasta? This dish is a play on Tuscan chicken with sun-dried tomatoes, lemon, and Parmesan in a creamy sauce. Perfect for a weekend meal or date night showstopper.</h2>
-        <p><b>By The BBC Food team</b></p>
+<h1>Easy 'Marry me' chicken pasta</h1>
+        <p>Does anything say “I Love You” more than a big bowl of pasta? This dish is a play on Tuscan chicken with sun-dried tomatoes, lemon, and Parmesan in a creamy sauce. Perfect for a weekend meal or date night showstopper.</p>
+       
         <h3>Ingredients</h3>
         <ul>
             <li><b>2 medium chicken breasts, butterflied</b></li>
