@@ -1,16 +1,6 @@
 <h1>'Marry me' chicken pasta</h1>
-<div id="images1"></div>
         <p>Does anything say “I Love You” more than a big bowl of pasta? This dish is a play on Tuscan chicken with sun-dried tomatoes, lemon, and Parmesan in a creamy sauce. Perfect for a weekend meal or date night showstopper.</p>
-        <center><script type="text/javascript">
-    atOptions = {
-        'key' : '32417884c3de3b64cea14b0307a6b0c1',
-        'format' : 'iframe',
-        'height' : 250,
-        'width' : 300,
-        'params' : {}
-    };
-</script>
-<script type="text/javascript" src="//roastwearwritten.com/32417884c3de3b64cea14b0307a6b0c1/invoke.js"></script></center>
+        
         <h3>Ingredients</h3>
         <ul>
             <li><b>2 medium chicken breasts, butterflied</b></li>
@@ -31,16 +21,7 @@
             <li><b>Salt and freshly ground black pepper</b></li>
             <li><b>Torn basil leaves, to serve</b></li>
         </ul>
-         <center><script type="text/javascript">
-    atOptions = {
-        'key' : '28e0381782b75d3d6fdd3c563dd50869',
-        'format' : 'iframe',
-        'height' : 250,
-        'width' : 300,
-        'params' : {}
-    };
-    </script>
-    <script type="text/javascript" src="//roastwearwritten.com/28e0381782b75d3d6fdd3c563dd50869/invoke.js"></script></center>
+         
         <h3>Method</h3>
         <ol>
             <li><b>Sprinkle the flour onto a plate and season with salt and freshly ground black pepper. Toss the chicken in the flour on all sides.</b></li>

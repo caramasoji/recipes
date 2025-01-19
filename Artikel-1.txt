@@ -1,16 +1,6 @@
 <h1>Easy Marry Me Chicken Pasta Recipe</h1>
-<div id="images1"></div>
-    <p><b>Marry Me Chicken Pasta</b> is a delectable dish that combines tender chicken pieces with penne pasta, all enveloped in a rich and creamy sun-dried tomato sauce. This recipe has gained popularity for its irresistible flavors and straightforward preparation, making it a perfect choice for both weeknight dinners and special occasions.</p>
-    <center><script type="text/javascript">
-    atOptions = {
-        'key' : '32417884c3de3b64cea14b0307a6b0c1',
-        'format' : 'iframe',
-        'height' : 250,
-        'width' : 300,
-        'params' : {}
-    };
-</script>
-<script type="text/javascript" src="//roastwearwritten.com/32417884c3de3b64cea14b0307a6b0c1/invoke.js"></script></center>
+
+    <p><b>Marry Me Chicken Pasta</b> is a delectable dish that combines tender chicken pieces with penne pasta, all enveloped in a rich and creamy sun-dried tomato sauce. This recipe has gained popularity for its irresistible flavors and straightforward preparation, making it a perfect choice for both weeknight dinners and special occasions.</p>    
 
     <h2>Ingredients</h2>
 
@@ -35,16 +25,7 @@
         <li><b>Paprika:</b> 1 teaspoon.</li>
         <li><b>Fresh Basil:</b> For garnish.</li>
     </ul>
-    <center><script type="text/javascript">
-    atOptions = {
-        'key' : '28e0381782b75d3d6fdd3c563dd50869',
-        'format' : 'iframe',
-        'height' : 250,
-        'width' : 300,
-        'params' : {}
-    };
-    </script>
-    <script type="text/javascript" src="//roastwearwritten.com/28e0381782b75d3d6fdd3c563dd50869/invoke.js"></script></center>
+    
     <h2>Instructions</h2>
 
     <p><b>1. Cook the Pasta:</b> Prepare the penne pasta according to the package instructions. Once cooked, drain and set aside.</p>
