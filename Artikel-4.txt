@@ -1,0 +1,35 @@
+<h1>'Marry me' chicken pasta</h1>
+        <h2>Does anything say “I Love You” more than a big bowl of pasta? This dish is a play on Tuscan chicken with sun-dried tomatoes, lemon, and Parmesan in a creamy sauce. Perfect for a weekend meal or date night showstopper.</h2>
+        <p><b>By The BBC Food team</b></p>
+        <h3>Ingredients</h3>
+        <ul>
+            <li><b>2 medium chicken breasts, butterflied</b></li>
+            <li><b>2 tbsp plain flour</b></li>
+            <li><b>Olive oil, for frying</b></li>
+            <li><b>25g/1oz butter</b></li>
+            <li><b>2 garlic cloves, finely chopped</b></li>
+            <li><b>75g/2½oz sun-dried tomatoes, finely chopped</b></li>
+            <li><b>½ tsp dried thyme</b></li>
+            <li><b>½ tsp dried oregano</b></li>
+            <li><b>1 tsp ground paprika</b></li>
+            <li><b>½ tsp chilli flakes (optional)</b></li>
+            <li><b>½ lemon, zest and juice</b></li>
+            <li><b>75g/2½oz spinach</b></li>
+            <li><b>100g/3½oz pappardelle pasta</b></li>
+            <li><b>170g/6oz mascarpone</b></li>
+            <li><b>50g/1¾oz Parmesan, freshly grated</b></li>
+            <li><b>Salt and freshly ground black pepper</b></li>
+            <li><b>Torn basil leaves, to serve</b></li>
+        </ul>
+        <h3>Method</h3>
+        <ol>
+            <li><b>Sprinkle the flour onto a plate and season with salt and freshly ground black pepper. Toss the chicken in the flour on all sides.</b></li>
+            <li><b>Heat a large frying pan over a medium heat and add ½ tablespoon of olive oil, followed by the butter. Once foaming, add the chicken breasts and cook for 4–5 minutes on both sides or until golden-brown.</b></li>
+            <li><b>Turn down the heat to low, cover with a lid, and cook for another 10 minutes. Turn the chicken halfway through and make sure it is cooked through. Remove the chicken from the pan and slice into 3cm/1¼in strips.</b></li>
+            <li><b>Meanwhile, heat a dash of oil in a frying pan and fry the garlic for 1–2 minutes over a medium heat in another large frying pan. Once fragrant, add the sun-dried tomatoes, thyme, oregano, paprika, chilli flakes (if liked), lemon zest and juice, and salt and freshly ground black pepper to taste.</b></li>
+            <li><b>Cook for 1 minute further before adding the spinach and wilting it down, stirring often to prevent anything catching.</b></li>
+            <li><b>Add the chicken to the sauce and keep warm.</b></li>
+            <li><b>Meanwhile, cook the pasta according to packet instructions in a large pan of boiling salted water. Drain once you reach the ‘al dente’ stage and reserve a mug full of the pasta water.</b></li>
+            <li><b>Add the mascarpone to the sauce and allow it to melt down. Tip the pasta into the sauce with some of the pasta water to loosen things up. Stir together adding little splashes of pasta water until a velvety sauce is formed. Add half of the Parmesan and stir again until melted.</b></li>
+            <li><b>Share among two bowls and serve with the rest of the Parmesan and a few torn basil leaves.</b></li>
+        </ol>

@@ -1,0 +1,59 @@
+<h1>Easy Marry Me Chicken Pasta Recipe</h1>
+
+    <p><b>Marry Me Chicken Pasta</b> is a delectable dish that combines tender chicken pieces with penne pasta, all enveloped in a rich and creamy sun-dried tomato sauce. This recipe has gained popularity for its irresistible flavors and straightforward preparation, making it a perfect choice for both weeknight dinners and special occasions.</p>
+
+    <h2>Ingredients</h2>
+
+    <p><b>For the Chicken and Pasta:</b></p>
+    <ul>
+        <li><b>Chicken Breasts:</b> 2 pounds, boneless and skinless, cut into 1-inch pieces.</li>
+        <li><b>Penne Pasta:</b> 12 ounces, cooked according to package instructions.</li>
+        <li><b>Salt and Pepper:</b> To season the chicken.</li>
+        <li><b>Olive Oil:</b> 1 tablespoon, for searing the chicken.</li>
+    </ul>
+
+    <p><b>For the Creamy Sun-Dried Tomato Sauce:</b></p>
+    <ul>
+        <li><b>Butter:</b> 3 tablespoons.</li>
+        <li><b>Garlic:</b> 2 teaspoons, minced.</li>
+        <li><b>All-Purpose Flour:</b> 3 tablespoons, to thicken the sauce.</li>
+        <li><b>Chicken Broth:</b> 1 cup.</li>
+        <li><b>Heavy Cream:</b> ¾ cup.</li>
+        <li><b>Parmesan Cheese:</b> ½ cup, grated.</li>
+        <li><b>Sun-Dried Tomatoes:</b> ½ cup, drained and chopped.</li>
+        <li><b>Italian Seasoning:</b> 1 teaspoon.</li>
+        <li><b>Paprika:</b> 1 teaspoon.</li>
+        <li><b>Fresh Basil:</b> For garnish.</li>
+    </ul>
+
+    <h2>Instructions</h2>
+
+    <p><b>1. Cook the Pasta:</b> Prepare the penne pasta according to the package instructions. Once cooked, drain and set aside.</p>
+
+    <p><b>2. Prepare the Chicken:</b></p>
+    <ul>
+        <li>Season the chicken pieces with salt and pepper.</li>
+        <li>In a large skillet, heat the olive oil over medium-high heat.</li>
+        <li>Add the seasoned chicken to the skillet and cook for approximately 6-8 minutes, until the chicken is cooked through and no longer pink.</li>
+        <li>Remove the chicken from the skillet and set aside.</li>
+    </ul>
+
+    <p><b>3. Make the Sauce:</b></p>
+    <ul>
+        <li>In the same skillet, add the butter and allow it to melt.</li>
+        <li>Add the minced garlic and sauté for about 30 seconds until fragrant.</li>
+        <li>Sprinkle in the flour, stirring continuously to create a paste.</li>
+        <li>Gradually whisk in the chicken broth and heavy cream, ensuring a smooth consistency.</li>
+        <li>Stir in the grated Parmesan cheese, chopped sun-dried tomatoes, Italian seasoning, and paprika.</li>
+        <li>Allow the sauce to simmer for a few minutes until it thickens slightly.</li>
+    </ul>
+
+    <p><b>4. Combine All Ingredients:</b></p>
+    <ul>
+        <li>Return the cooked chicken to the skillet, stirring to coat it with the sauce.</li>
+        <li>Add the cooked penne pasta, mixing thoroughly to ensure the pasta is well coated with the creamy sauce.</li>
+    </ul>
+
+    <p><b>5. Serve:</b> Garnish with fresh basil and serve warm.</p>
+
+    <p><b>This Marry Me Chicken Pasta</b> is sure to impress with its rich flavors and creamy texture. It's a delightful meal that brings together the savory taste of chicken, the tanginess of sun-dried tomatoes, and the comforting creaminess of the sauce. Enjoy this dish with a side of garlic bread or a fresh green salad for a complete dining experience.</p>
