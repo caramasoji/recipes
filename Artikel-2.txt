@@ -4,6 +4,16 @@
     <h2>Why you’ll love it</h2>
     <p>If you haven’t heard of <strong>Marry Me Chicken</strong>, it’s time you open your heart to it. Readers adore it, so naturally I had to adapt the skillet version into an irresistible pasta! This dish has a similar simple creamy garlic, parmesan, tomato sauce with a perfect union of herbs.</p>
     <p>Using rotisserie or leftover chicken is one of my favorite shortcuts, and it works great in this marry me pasta. The marriage of flavors in the creamy sauce will supposedly snag you a spouse. It’ll be love at first bite with this 30-minute pasta that’s super easy to make.</p>
+    <center><script type="text/javascript">
+    atOptions = {
+        'key' : '32417884c3de3b64cea14b0307a6b0c1',
+        'format' : 'iframe',
+        'height' : 250,
+        'width' : 300,
+        'params' : {}
+    };
+    </script>
+    <script type="text/javascript" src="//roastwearwritten.com/32417884c3de3b64cea14b0307a6b0c1/invoke.js"></script></center>
     <h2>What you’ll need</h2>
     <ul>
         <li><strong>Pasta</strong> – use any shape! I like a sturdy pasta that holds sauce well like rigatoni or farfalle.</li>
@@ -19,6 +29,16 @@
     </ul>
     <h2>Pro tip</h2>
     <p>To make this recipe really pop, choose a white wine you actually enjoy drinking. I don’t ever recommend cooking wine. It’s lower quality than the kind you drink and can be extremely salty, therefore not suitable for being consumed on its own, so I don’t like to cook with it either.</p>
+     <center><script type="text/javascript">
+    atOptions = {
+        'key' : '28e0381782b75d3d6fdd3c563dd50869',
+        'format' : 'iframe',
+        'height' : 250,
+        'width' : 300,
+        'params' : {}
+    };
+    </script>
+    <script type="text/javascript" src="//roastwearwritten.com/28e0381782b75d3d6fdd3c563dd50869/invoke.js"></script></center>
     <h2>How to make marry me chicken pasta</h2>
     <ol>
         <li>Boil the pasta. Meanwhile, melt the butter in a skillet. Stir in the flour until combined, cooking for about a minute. Add the garlic, tomato paste, and white wine. Let it bubble. Add the cream, sun-dried tomatoes, oregano, crushed red pepper, and chicken.</li>
