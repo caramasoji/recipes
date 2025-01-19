@@ -1,4 +1,5 @@
 <h1>Quick Marry Me Chicken Recipes</h1>
+<div id="images1"></div>
     <h2>Ingredients</h2>
     <center><script type="text/javascript">
     atOptions = {
