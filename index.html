@@ -125,6 +125,41 @@
             document.getElementById('images2').appendChild(imageElement);
         });
     </script>
+	<script>
+    function loadArticlesAndAds() {
+        const articleFiles = ['Artikel-1.txt']; // Daftar file artikel
+        const adsFile = 'ads.txt'; // File iklan
+        const contentContainer = document.getElementById('content1'); // Elemen untuk menampilkan artikel
+
+        // Muat file iklan
+        fetch(adsFile)
+            .then(response => response.text())
+            .then(adsContent => {
+                // Muat file artikel
+                articleFiles.forEach(file => {
+                    fetch(file)
+                        .then(response => response.text())
+                        .then(articleContent => {
+                            // Ganti placeholder [ADS_PLACEHOLDER] dengan konten iklan
+                            const updatedContent = articleContent.replace('[ADS_PLACEHOLDER]', adsContent);
+
+                            // Sisipkan artikel yang sudah dimodifikasi ke dalam elemen konten
+                            contentContainer.innerHTML += `<p>${updatedContent}</p>`;
+                        })
+                        .catch(error => {
+                            console.error('Error loading article:', error);
+                            contentContainer.innerHTML += '<p>Artikel tidak ditemukan</p>';
+                        });
+                });
+            })
+            .catch(error => {
+                console.error('Error loading ads:', error);
+            });
+    }
+
+    // Panggil fungsi untuk memuat artikel dan iklan
+    loadArticlesAndAds();
+</script>
 </body>
  <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
