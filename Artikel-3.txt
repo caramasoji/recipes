@@ -19,7 +19,7 @@
                 <li><b>120 g Spinach</b></li>
                 <li><b>Freshly ground black pepper</b></li>
             </ul>
-        [ADS_PLACEHOLDER]
+        
         
             <h2>Instructions</h2>
             <ol>

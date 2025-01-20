@@ -32,7 +32,7 @@
         <li>Add sun-dried tomatoes, red pepper flakes, and salt. Add bacon and chicken back into the skillet.</li>
         <li>Serve on top of hot cooked pasta.</li>
     </ol>
-    [ADS_PLACEHOLDER]
+    
     <h2>Nutrition Facts</h2>
     <p><b>Per serving:</b></p>
     <ul>
